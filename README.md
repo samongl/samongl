@@ -33,7 +33,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/samong-lor-b6431b243
+[linkedin]: www.linkedin.com/in/samonglor
 
 
 <!--

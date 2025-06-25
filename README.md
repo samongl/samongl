@@ -1,27 +1,12 @@
-<h1>Hi, I'm Samong! </h1>
+<h1>Hi, I'm Samong! Avid IT Student and Desktop Technician.</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory and DHCP Server Setup</b>
   - [Setting up Active Directory and DHCP Server](https://github.com/samongl/Active-Directory-Home-Lab/tree/main)
-- <b>SOHO Office Setup</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>Certifications</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- <b>SOHO Setup</b>
+  - [Setting up a SOHO](https://github.com/samongl/SOHO-Project)
+    
 <h2> 🤳 Connect with me:</h2>
 
 
